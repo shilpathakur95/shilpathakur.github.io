@@ -135,6 +135,6 @@ export const testimonials = [
   {
     name: "Design Lead",
     company: "Group.one",
-    text: "Working with Shilpa was collaborative in the truest sense. She brought clear direction, always had the user in mind, and gave us the space to do our best work while keeping the whole team aligned.",
+    text: "Shilpa is incredibly user-focused. We worked together on multiple user interviews and she consistently brought strong insights into user behavior and needs. She’s thoughtful in discussions, contributes meaningfully to roadmap planning, and always keeps the end-user experience front and center. With her strong technical background, Shilpa also brings a very solid skill set to the team. She’s able to bridge product, UX, and technical considerations in a really effective way, which adds a lot of value when shaping solutions. Beyond her skills, Shilpa is simply a delight to work with. She is highly responsible, responsive, and reliable. She’s very organized, always on top of deadlines, and often goes out of her way to support others and move things forward. What really stands out is how genuinely invested she is; in the product, the team, and the users we’re building for. Anyone who gets the chance to work with Shilpa will be very lucky to have her on their team.",
   },
 ];
